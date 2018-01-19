@@ -22,3 +22,7 @@ cçćč
 1. 검은사막 모바일
 2. 야생의 땅 듀랑고
 ***
+
+로컬에서 수정
+
+/bin/bash: wq: command not found
