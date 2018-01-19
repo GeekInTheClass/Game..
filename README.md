@@ -24,5 +24,3 @@ cçćč
 ***
 
 로컬에서 수정
-
-/bin/bash: wq: command not found
